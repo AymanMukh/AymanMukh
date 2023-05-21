@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AymanMukh, I am a PhD candidcate at RMIT, Australia.
+- 👋@AymanMukh, RMIT, Australia.
 
 - 👀 I’m interested in machine learning and computer vision, mainly point cloud data
 - 🌱 I’m currently learning ...
